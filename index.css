@@ -1,18 +1,26 @@
-body{
-    background: #a8eac2;
+body {
+    background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
 }
 
 h1 {
 
- color: blue;
- text-align: center;
-
+    color: blue;
+    text-align: center;
+    font-size: 50px;
 }
 
-h2{
+h2 {
+    font-size: 40px;
     color: blue;
 }
 
-h3{
+h3 {
     color: blue;
+    font-size: 40px;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
