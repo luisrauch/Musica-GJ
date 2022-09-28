@@ -2,11 +2,18 @@ body {
     background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
 }
 
+.centralizar{
+    text-align: center;
+}
+
 h1 {
 
     color: blue;
-    text-align: center;
     font-size: 50px;
+}
+
+#nomes{
+    color: red;
 }
 
 h2 {
