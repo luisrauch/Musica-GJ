@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+.imagem{
+    width: 300px;
+    align-items: center;
+}
+
 h1 {
 
     color: blue;
