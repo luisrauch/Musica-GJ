@@ -1,12 +1,29 @@
+header {
+    background-color: aliceblue;
+}
+
+.cabecalho {
+    width: 100%;
+}
+
+nav {
+    font-size: 30px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 30%;
+}
+
 body {
     background: linear-gradient(to bottom, rgb(21, 189, 223), rgb(0, 255, 213));
 }
 
-.centralizar{
+.centralizar {
     text-align: center;
 }
 
-.guido{
+.guido {
     width: 300px;
     margin-left: 40%;
     border: solid 10px black;
@@ -19,7 +36,7 @@ h1 {
     font-size: 50px;
 }
 
-#nomes{
+#nomes {
     color: red;
 }
 
